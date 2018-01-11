@@ -35,7 +35,7 @@
 };
 
 &sound_hdmi {
-	status = "okay";
+	status = "disabled";
 };
 
 &sound_sgtl5000 {
